@@ -1,6 +1,7 @@
 # github-pages-template
 
 数式を TeX で記述できる GitHub Pages のテンプレートです。
+公開ページ: <https://kino-3.github.io/github-pages-template/>
 
 - Jekyll のテーマとして [Dinky](https://github.com/pages-themes/dinky) を使用しています。
 - TeX を利用するためのライブラリとして [MathJax](https://github.com/MathJax/MathJax) を使用しています。
